@@ -8,4 +8,4 @@
 # set.copy(), set.add(elem), set.remove(elem), set.clear(), set.union(other, ...)
 
 # Str
-# S.split(символ), S.replace(шаблон, замена), len(S), S.join(список)
+# S.split(символ), S.replace(шаблон, замена), len(S), S.join(список), S.lower()
